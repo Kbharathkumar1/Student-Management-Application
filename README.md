@@ -9,6 +9,17 @@ A full-stack Java web application built to demonstrate the **Model-View-Controll
 <img width="1919" height="956" alt="Screenshot 2026-02-18 184134" src="https://github.com/user-attachments/assets/331a9dff-733f-4596-8539-a1fc5f919d03" />
 <img width="785" height="344" alt="Screenshot 2026-02-18 184150" src="https://github.com/user-attachments/assets/0460dc91-81b8-43f8-8b0a-dce74f1c2e38" />
 
+==========================================================================================================================================================
+Internal Visulas:
+1. The Authentication Flow (Login):-
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/403024ce-326c-438e-b35f-c91e7d1df03b" />
+2. The Data Entry Flow (Save Student):-
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/aafb6a4f-4988-4a65-9eac-a5baf9855080" />
+3. The Silent Forward (Success Page):-
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/def84520-f5c9-4d52-b11d-6624a51dd1f9" />
+4. The Reporting Flow (View Students):-
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/4d81f273-deef-4d52-9da2-cb3d693e6683" />
+
 
 1. Secure Authentication:
 > The entry point requires valid credentials verified against the Oracle database.
@@ -31,6 +42,8 @@ If You Want To Add Another Record click on ADDANOTHER button:
 
 If You Want To Add Another Record click on ADDNEWSTUDENT button
 <img width="1919" height="941" alt="Screenshot 2026-02-18 184334" src="https://github.com/user-attachments/assets/35ff3f05-f874-404f-9738-d94f96dcca07" />
+
+
 
 Tech Stack:
 * Backend: Java SE 17, Servlets, JDBC
