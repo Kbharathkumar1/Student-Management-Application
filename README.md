@@ -9,8 +9,9 @@ A full-stack Java web application built to demonstrate the **Model-View-Controll
 <img width="1919" height="956" alt="Screenshot 2026-02-18 184134" src="https://github.com/user-attachments/assets/331a9dff-733f-4596-8539-a1fc5f919d03" />
 <img width="785" height="344" alt="Screenshot 2026-02-18 184150" src="https://github.com/user-attachments/assets/0460dc91-81b8-43f8-8b0a-dce74f1c2e38" />
 
-==========================================================================================================================================================
-Internal Visulas:
+============================================================================================
+                                     Internal Visulas:
+============================================================================================                                  
 1. The Authentication Flow (Login):-
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/403024ce-326c-438e-b35f-c91e7d1df03b" />
 2. The Data Entry Flow (Save Student):-
